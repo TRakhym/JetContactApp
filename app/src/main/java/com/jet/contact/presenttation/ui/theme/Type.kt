@@ -1,4 +1,4 @@
-package com.jet.contact.ui.theme
+package com.jet.contact.presenttation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
